@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Heba Hendawy 👋
 
-<!--
-**hebahendawy16-source/hebahendawy16-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Automation Engineer | n8n Developer
 
-Here are some ideas to get you started:
+I'm passionate about building AI-powered workflow automation solutions using modern AI tools and no-code platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+
+- AI Automation
+- AI Agents
+- n8n
+- OpenAI API
+- Google Sheets
+- Gmail Automation
+- REST APIs
+- Workflow Automation
+
+### 🛠 Currently Working On
+
+- AI Restaurant Ordering Agent
+- RAG Chatbot
+- AI Lead Qualification System
+
+### 📫 Connect with Me
+
+- LinkedIn (www.linkedin.com/in/heba-hendawy-993272242)
+- Upwork (Coming Soon)
