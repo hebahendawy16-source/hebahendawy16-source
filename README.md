@@ -4,7 +4,7 @@
 
 I'm passionate about building AI-powered workflow automation solutions using modern AI tools and no-code platforms.
 
-### 🚀 Skills
+###  Skills
 
 - AI Automation
 - AI Agents
@@ -15,7 +15,7 @@ I'm passionate about building AI-powered workflow automation solutions using mod
 - REST APIs
 - Workflow Automation
 
-### 🛠 Currently Working On
+### Currently Working On
 
 - AI Restaurant Ordering Agent
 - RAG Chatbot
